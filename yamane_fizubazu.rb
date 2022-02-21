@@ -5,5 +5,8 @@ for i in 1..100
   if i%5==0
     p bazu
   end
+  if i%7==0
+    p git
+  end
   p " "
 end
