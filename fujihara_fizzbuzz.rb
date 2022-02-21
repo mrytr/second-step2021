@@ -8,4 +8,7 @@ end
   elsif i&5==0
     puts "Buzz"
 end
+elsif i%7==0
+puts "git"
+end
   end
